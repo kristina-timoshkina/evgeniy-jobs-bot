@@ -35,8 +35,8 @@ Telegram-бот для поиска, хранения и отбора вакан
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/bot-evgeniy-vacancies.png" height="480"></td>
-<td align="center"><img src="screenshots/bot-kristina-vacancies-menu.png" height="480"></td>
+    <td align="center"><b>Вакансии для Евгения</b></td>
+    <td align="center"><b>Вакансии для Кристины</b></td>
   </tr>
   <tr>
     <td align="center"><img src="screenshots/bot-evgeniy-vacancies.png" width="230"></td>
@@ -47,6 +47,7 @@ Telegram-бот для поиска, хранения и отбора вакан
 ### Профиль бота
 
 <img src="screenshots/bot-profile.png" width="270">
+
 ### Пользовательский режим
 
 Пользователь может открыть меню, посмотреть свежие вакансии, получить подборку и перейти по ссылкам на подходящие предложения.
