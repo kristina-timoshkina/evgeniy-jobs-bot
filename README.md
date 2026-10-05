@@ -39,8 +39,8 @@ Telegram-бот для поиска, хранения и отбора вакан
     <td align="center"><b>Вакансии для Кристины</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/bot-evgeniy-vacancies.png" width="310"></td>
-    <td><img src="screenshots/bot-kristina-vacancies.png" width="310"></td>
+    <td><img src="screenshots/bot-evgeniy-vacancies.png" width="270"></td>
+    <td><img src="screenshots/bot-kristina-vacancies.png" width="270"></td>
   </tr>
 </table>
 
