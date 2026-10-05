@@ -39,14 +39,14 @@ Telegram-бот для поиска, хранения и отбора вакан
     <td align="center"><b>Вакансии для Кристины</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/bot-evgeniy-vacancies.png" width="400"></td>
-    <td><img src="screenshots/bot-kristina-vacancies.png" width="400"></td>
+    <td><img src="screenshots/bot-evgeniy-vacancies.png" width="310"></td>
+    <td><img src="screenshots/bot-kristina-vacancies.png" width="310"></td>
   </tr>
 </table>
 
 ### Профиль бота
 
-<img src="screenshots/bot-profile.png" width="360">
+<img src="screenshots/bot-profile.png" width="270">
 ### Пользовательский режим
 
 Пользователь может открыть меню, посмотреть свежие вакансии, получить подборку и перейти по ссылкам на подходящие предложения.
